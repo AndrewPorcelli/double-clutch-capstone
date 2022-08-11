@@ -76,3 +76,7 @@
 h2 {
   font-size: 32px;
 }
+
+img {
+  width: 100vw;
+}
